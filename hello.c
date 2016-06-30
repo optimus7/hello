@@ -7,5 +7,6 @@ int main()
 {
   printf("Hello!\n");
   printf("Hello hotfix\n");
+  printf("Hello github\n");
   return 0;
 }
